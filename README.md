@@ -4,7 +4,7 @@ HR-Attrition-Analysis-Excel-Tableau
 │   └── attrition_dashboard.xlsx
 
 ├── tableau/
-│   ├── executive_summary_dashboard.png
+│   ├──executive_summary_dashboard.png
    This dashboard provides a highlevel overview of employee attrition, including key metrics such as attrition rate, total employees, average income, and job satisfaction.
 │   └── compensation_performance_dashboard.png
 This dashboard analyzes the relationship between employee compensation, training, and performance
